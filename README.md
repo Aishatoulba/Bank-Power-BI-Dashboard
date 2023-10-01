@@ -1,7 +1,6 @@
 # Bank Power BI Dashboard
 
 This repository contains a Power BI dashboard that visualizes data on bank clients. The dashboard provides an interactive view of the data, allowing users to explore the data and gain insights about the bank clients.
-
 The dashboard includes several visualizations, including:
 - Total Balance
 - Total Male Balance
